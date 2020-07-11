@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: white;
+    background: url("plain.jpg") fixed no-repeat;
+    background-size:cover;
+}
+
+#about-section{
+    position: absolute;
+    top: 7%;
+    left: 4%;
+    bottom: 62%;
+    right: 29%;
+    border-bottom:6px solid darkorchid;
+}
+img{
+    position: absolute;
+    top:7%;
+    right:4%;
+    width: 135px;
+    height: auto;
+    border: gold;
+    border-style: solid;
+    padding: 3px;
+
+}
+#projects{
+    position: absolute;
+    top:38%;
+    right:4%;
+    bottom: 31%;
+    left: 4%;
+    border-bottom:6px solid darkorchid;
+}
+.project-title{
+    color: fuchsia;
+}
+
+a{
+    color: fuchsia;
+}
+#education{
+    position: absolute;
+    top:69%;
+    right:4%;
+    bottom:1%;
+    left: 4%;
+    border-bottom:6px solid darkorchid;
+}
