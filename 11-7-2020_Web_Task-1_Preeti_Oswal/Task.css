@@ -1,0 +1,52 @@
+body{
+  background-image: url("bridge.jpg");
+  background-color: rgb(245, 223, 194);
+  width: 100%;
+  height: 240px;
+  background-repeat: no-repeat;
+}
+.profile img{
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  border: 2px solid rgb(240, 131, 131);
+  position: absolute;
+  top: 100px;
+  left: 10%;
+}
+.id{
+  margin-top: -100px;
+  margin-left: 10%;
+  color: white;
+}
+#about-section {
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  left: 60%;
+  
+}
+.general{
+  margin-top: 17%;
+  margin-left: 58%;
+ 
+}
+.projects{
+  margin-left: -35%;
+}
+.education{
+  margin-top: -29%;
+  margin-left: 35%;
+}
+.skills{
+  margin-top: 150px;
+  margin-left: 45%;
+}
+#star{
+  color:gold;
+}
+table{
+  width: 500px;
+  border: 1px solid black;
+}
+
