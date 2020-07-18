@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Audio and Animations With Controls </title>
+<style>
+h1{font-family:Arial;border-style:dashed;border-color:red}
+</style>
+</head>
+<body bgcolor="lightblue">
+<h1 align="center" font size="+3">CHOO LO</h1>
+<embed src="choolo.mp3" loop="-1">
+<h3 style="font-family:Monotype Corsiva;font-style:italic;font-size:35px">Animated Image</h3>
+<marquee direction="right"><img src="notes.jpg" width="250" height="200"></marquee> 
+</body>
+</html>
