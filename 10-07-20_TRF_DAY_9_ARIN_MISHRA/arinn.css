@@ -1,0 +1,35 @@
+.about
+{
+ position: relative;
+ background:linear-gradient(rgb(140, 187, 101), rgb(162, 205, 230));
+ color: rgb(194, 16, 46);
+ border:5px red;
+ left:10px;
+ top:0px;
+ width:30%;
+ height:15%;
+}
+
+.education
+{
+ position: relative;
+ background: linear gradient (rgb(100,120,101 ), rgb(160,200,235))
+ color: rgb(50, 1007, 16);
+ border:5px solid rgb(206, 61, 24);
+ left:0px;
+ top:15px;
+ width:30%;
+ height:15%;
+}
+
+.project
+{
+ position: relative;
+ background:linear-gradient(rgb(100, 120, 101), rgb(160, 200, 235));
+ color: rgb(27, 14, 197);
+ border:5px solid rgb(203, 51, 25);
+ left:10px;
+ top:300px;
+ width:30%;
+ height:35%;
+ }
